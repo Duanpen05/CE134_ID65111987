@@ -7,12 +7,13 @@
 ![Screenshot 2023-10-26 210335](https://github.com/Duanpen05/CE134_ID65111987/assets/142969948/89b0b4fc-8a04-4aeb-ad47-2839892d163d)
 
 4.ทำการติดตั้ง apache2 และ git บน Ubuntu20 ด้วยคำสั่ง
-  -sudo apt update
-  -sudo apt install apache2 
-  -sudo apt install git 
+  - sudo apt update
+  - sudo apt install apache2 
+  - sudo apt install git 
 หลังจากการติดตั้ง apache2 และ Git เรียบร้อยแล้ว
 
-5.ทำการ clone ตัว repository ![Screenshot 2023-10-26 211144](https://github.com/Duanpen05/CE134_ID65111987/assets/142969948/15665dc3-063b-494d-88e5-7f7e6c7fdb8f)
+5.ทำการ clone ตัว repository
+![Screenshot 2023-10-26 211144](https://github.com/Duanpen05/CE134_ID65111987/assets/142969948/15665dc3-063b-494d-88e5-7f7e6c7fdb8f)
 
 6.จากนั้นทำการเช็ค directory ว่ามีการโคลน repository จาก Git hub เข้ามาหรือยัง![Screenshot 2023-10-26 211436](https://github.com/Duanpen05/CE134_ID65111987/assets/142969948/999dd071-6728-4e45-9a7e-2f5b4a86ee89)
 
