@@ -12,14 +12,11 @@
   -sudo apt install git 
 หลังจากการติดตั้ง apache2 และ Git เรียบร้อยแล้ว
 
-5.ทำการ clone ตัว repository 
-![Screenshot 2023-10-26 211144](https://github.com/Duanpen05/CE134_ID65111987/assets/142969948/15665dc3-063b-494d-88e5-7f7e6c7fdb8f)
+5.ทำการ clone ตัว repository ![Screenshot 2023-10-26 211144](https://github.com/Duanpen05/CE134_ID65111987/assets/142969948/15665dc3-063b-494d-88e5-7f7e6c7fdb8f)
 
-6.จากนั้นทำการเช็ค directory ว่ามีการโคลน repository จาก Git hub เข้ามาหรือยัง
-![Screenshot 2023-10-26 211436](https://github.com/Duanpen05/CE134_ID65111987/assets/142969948/999dd071-6728-4e45-9a7e-2f5b4a86ee89)
+6.จากนั้นทำการเช็ค directory ว่ามีการโคลน repository จาก Git hub เข้ามาหรือยัง![Screenshot 2023-10-26 211436](https://github.com/Duanpen05/CE134_ID65111987/assets/142969948/999dd071-6728-4e45-9a7e-2f5b4a86ee89)
 
-7.จากนั้นทำการเข้าถึงโฟลเดอร์ที่ clone มาจาก git hub
-![Screenshot 2023-10-26 211452](https://github.com/Duanpen05/CE134_ID65111987/assets/142969948/b975c26a-ce73-4783-8990-684d936a0fa3)
+7.จากนั้นทำการเข้าถึงโฟลเดอร์ที่ clone มาจาก git hub![Screenshot 2023-10-26 211452](https://github.com/Duanpen05/CE134_ID65111987/assets/142969948/b975c26a-ce73-4783-8990-684d936a0fa3)
 
 8.ทำการ run file index.html ขึ้นมา
 ![Screenshot 2023-10-26 211515](https://github.com/Duanpen05/CE134_ID65111987/assets/142969948/adfd0157-b5e8-453c-a055-2032eeac44de)
